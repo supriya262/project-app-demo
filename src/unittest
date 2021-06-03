@@ -1,0 +1,24 @@
+<div   style={{position: 'absolute', width: 150,display:'inline', height: 150}}>
+              
+                  <svg style={{position: 'absolute', width: 150, height: 150 ,display:'inline'}}>
+                    <circle cx="70%" cy="70%" r="70%" style={{width: 100, height: 100, 
+                    fill: 'none',
+                     strokeWidth: 10, transform: 'translate(20px,20px)',
+                      strokeDasharray: 150, strokeDashoffset: 350,stroke: 'red'}}>
+                      
+                         </circle>
+                         <circle cx="70%" cy="70%" r="70%" style={{width: 250, display:'inline',height: 100,
+                           fill: 'none', strokeWidth: 10, stroke: '#000', 
+                           transform: 'translate(10px,10px)', strokeDasharray: 200, 
+                           strokeDashoffset: 0 ,stroke:'100'}}>
+                           
+                           </circle></svg>
+                           <div className="number" style={{position: 'absolute',
+                            top: 0, left: 20, width: '100%', height: '100%', display: 'flex', 
+                           justifyContent: 'center', alignItems: 'center', color: '#999'}}>
+                             <h2 style={{fontsize: 48}}> 70 %</h2>
+                             </div>
+                             </div>
+                             
+                            
+                             </div>
